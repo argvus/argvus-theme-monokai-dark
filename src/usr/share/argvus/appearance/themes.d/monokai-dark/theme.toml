@@ -31,7 +31,7 @@ background = "#2D2A2E"
 calendar_css = "monokai-dark"
 
 # Removable devices CSS variant (may differ from theme id)
-removable_devices_css = "monokai-dark"
+removable_devices_css = "argvus-dark"
 
 [aliases]
 # Legacy theme ID mappings (if any) - format: "old-id" = "monokai-dark"
