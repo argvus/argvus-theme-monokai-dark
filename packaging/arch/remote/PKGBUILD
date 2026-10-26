@@ -1,7 +1,7 @@
 #!/bin/bash
 # Maintainer: William C. Canin <william.costa.canin@gmail.com>
 pkgname=argvus-theme-monokai-dark
-pkgver=0.1.0
+pkgver=0.2.0
 pkgrel=1
 pkgdesc="monokai-dark theme for ARGVUS"
 arch=('any')
